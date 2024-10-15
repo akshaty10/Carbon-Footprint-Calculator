@@ -1,0 +1,12 @@
+Category,Inputs,Total CO2 Emissions
+Transportation,"{'distance': 34.68, 'fuel_efficiency': 2.3, 'vehicle_type': 'Car', 'fuel_type': 'Gasoline'}",4.97
+Electricity,"{'consumption': 360.8, 'energy_source': 'Coal'}",295.86
+Diet,"{'meals_per_day': 3, 'diet_composition': 'Balanced', 'food_type': 'Meat'}",9.0
+Industrial Processes,"{'quantity_of_materials_used': 29.12, 'industry_type': 'Manufacturing', 'production_process': 'Casting'}",2912.0
+Transportation,"{'distance': 25.71, 'fuel_efficiency': 1.72, 'vehicle_type': 'Car', 'fuel_type': 'Gasoline'}",3.69
+Transportation,"{'distance': 6.6, 'fuel_efficiency': 0.8, 'vehicle_type': 'Car', 'fuel_type': 'Gasoline'}",0.96
+Industrial Processes,"{'quantity_of_materials_used': 25.0, 'industry_type': 'Manufacturing', 'production_process': 'Casting'}",2500.0
+Industrial Processes,"{'quantity_of_materials_used': 49.57, 'industry_type': 'Manufacturing', 'production_process': 'Casting'}",4957.0
+Industrial Processes,"{'quantity_of_materials_used': 49.57, 'industry_type': 'Manufacturing', 'production_process': 'Machining'}",4957.0
+Industrial Processes,"{'quantity_of_materials_used': 49.57, 'industry_type': 'Manufacturing', 'production_process': 'Chemical Processing'}",4957.0
+Industrial Processes,"{'quantity_of_materials_used': 29.69, 'industry_type': 'Manufacturing', 'production_process': 'Chemical Processing'}",2969.0
